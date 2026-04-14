@@ -11,7 +11,7 @@ Transformar la abstracción algebraica en una experiencia visual e interactiva. 
 
 ## 📱 Cómo acceder y usarla
 1. Abre este enlace en cualquier navegador:  
-   🔗 `https://cmramosg01.github.io/factorizacion-aspa/`
+   🔗 `https://cmramosg01.github.io/factorizacion/`
 2. En móvil: toca `⋮` (Chrome) o `📤 Compartir` (Safari) → **Añadir a pantalla de inicio**.
 3. ¡Listo! Funciona como una app nativa, incluso sin conexión a internet.
 
